@@ -121,7 +121,8 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-		'pro\repositories\RepositoryServiceProvider'
+		'pro\repositories\RepositoryServiceProvider',
+		'Way\Generators\GeneratorsServiceProvider'
 
 	),
 
